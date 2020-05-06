@@ -1,2 +1,0 @@
-# datasciencecoursera
-R Programming Concepts
